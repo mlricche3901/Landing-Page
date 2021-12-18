@@ -1,0 +1,43 @@
+.container {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.header {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-flex;
+}
+
+.main_text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.body_text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.body_text {
+    display: flex;   
+}
+
+.signup {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: none;
+}
+
